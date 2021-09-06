@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.body {
+  margin: 20px;
+  
+  max-width:30%;
+  margin: 0px auto;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
+    0 15px 40px rgba(166, 173, 201, 0.2);
+}
+
+.list {
+  max-width:30%;
+  margin: 0px auto;
+  margin-top: 30px;
+  padding: 20px;
+}
